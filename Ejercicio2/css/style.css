@@ -1,0 +1,17 @@
+/*Estilo de etiquetas*/
+body{
+	margin:0px;
+}
+
+/*Estilo de clases*/
+.cuadrado{
+	border: 1px solid #000;
+	width: 254px;
+	height: 254px;
+}
+
+.display{
+	border: 1px solid #000;
+	width: 254px;
+	height: 18px;
+}

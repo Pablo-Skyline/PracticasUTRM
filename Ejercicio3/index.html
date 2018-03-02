@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Formulario</title>
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/script.js" type="text/javascript" charset="utf-8" async defer></script>
+</head>
+<body>
+	<h2>Formulario</h2>
+	<div>
+		<label>Nombre: 
+			<br><input type="text" name="nombre" value="" id="nombre_id" onkeypress="return soloTextos(event)">
+		</label>
+		<br>
+		<label>Tel&eacute;fono: <label>ej: (+52) 984 187 9446</label> 
+			<br><input type="text" name="telefono" value="" id="numero_id" onkeypress="return soloNumeros(event)">
+		</label>
+		<br>
+		<label>Fecha de nacimiento (dd-mm-aaaa): 
+			<input type="text" name="fecha" id="fecha_id" onkeypress="return soloFecha(event)">
+		</label>
+		<br>
+		<label>Altura(m): 
+			<br><input type="text" name="altura" value="" id="altura_id" onkeypress="return soloUnaDecimal(event)">
+		</label>
+		<br>
+		<input type="button" name="enviar" value="enviar">
+	</div>
+	<div id="txt"></div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+div{
+	text-align-last: left;
+	width: 300px;
+}
+
+label input{
+	width: 280px;
+}
+
+label label{
+	color: grey;
+}

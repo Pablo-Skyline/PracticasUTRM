@@ -1,0 +1,22 @@
+img{
+	width: 100px;
+	height: 100px;
+}
+
+
+
+div div{
+	width: 130px;
+	height: 150px;
+	border-color: #000000;
+	margin: 1px;
+}
+
+.listado{
+	display: inline-block;
+}
+
+.caja { 
+	float:left;
+	margin-left:5px; 
+}

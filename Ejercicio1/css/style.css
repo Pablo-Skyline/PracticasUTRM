@@ -1,0 +1,9 @@
+body{
+	margin:0px;
+}
+
+.cuadrado{
+	border: 1px solid #000;
+	width: 254px;
+	height: 254px;
+}
