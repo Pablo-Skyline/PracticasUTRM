@@ -1,0 +1,52 @@
+{
+    "Fondas":[{
+            "nombre":"Chesters ",
+            "latitud":"20.6282695",
+            "longitud":"-87.08078549999999"
+        },
+        {
+            "nombre":"Coorazon contento",
+            "latitud":"20.5022683",
+            "longitud":"-86.9461361"
+        },
+        {
+            "nombre":"comida 3Bs",
+            "latitud":"20.6265825",
+            "longitud":"-87.07865919999999"
+        },
+        {
+            "nombre":"las de asada",
+            "latitud":"20.6265825",
+            "longitud":"-87.07865919999999"
+        },
+        {
+            "nombre":"doña juanita y cia",
+            "latitud":"20.6265825",
+            "longitud":"-87.07865919999999"
+        },
+        {
+            "nombre":"mi rinconcito colombiano",
+            "latitud":"20.6265825",
+            "longitud":"-87.07865919999999"
+        },
+        {
+            "nombre":"Ricoss",
+            "latitud":"20.6309006",
+            "longitud":"-87.069919"
+        },
+        {
+            "nombre":"sadrago corazon",
+            "latitud":"20.622809",
+            "longitud":"-87.0783081"
+        },
+        {
+            "nombre":"chilaquiles de playa",
+            "latitud":"20.6265825",
+            "longitud":"-87.07865919999999"
+        },
+        {
+            "nombre":"cocina economica",
+            "latitud":"20.6265825",
+            "longitud":"-87.07865919999999"
+        }
+    ]

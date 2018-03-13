@@ -1,0 +1,54 @@
+{
+    "centros_comerciales": [
+        {
+            "nombre": "Calle 36 Norte",
+            "latitud": "20.6323938",
+            "longitud": "-87.09118789999999"
+        },
+        {
+            "nombre": "110 Avenida Norte",
+            "latitud": "20.6346278",
+            "longitud": "-87.0946127"
+        },
+        {
+            "nombre": "145 Avenida Sur",
+            "latitud": "20.6349763",
+            "longitud": "-87.1036003"
+        },
+        {
+            "nombre": "Calle 85 Avenida Norte",
+            "latitud": "20.6360642",
+            "longitud": "-87.08727879999999"
+        },
+        {
+            "nombre": "Calle 36 Norte",
+            "latitud": "20.6446764",
+            "longitud": "-87.0910681"
+        },
+        {
+            "nombre": "Calle 8 Norte",
+            "latitud": "20.6291146",
+            "longitud": "-87.0778732"
+        },
+        {
+            "nombre": "40 Av. Sur",
+            "latitud": "20.6262839",
+            "longitud": "-87.0817031"
+        },
+        {
+            "nombre": "40 Av. Sur",
+            "latitud": "20.6262839",
+            "longitud": "-87.0817031"
+        },
+        {
+            "nombre": "Chacalal",
+            "latitud": "20.5968144",
+            "longitud": "-87.12175000000001"
+        },
+        {
+            "nombre": "Calle 8 Norte",
+            "latitud": "20.6312933",
+            "longitud": "-87.0861278"
+        }
+    ]
+}

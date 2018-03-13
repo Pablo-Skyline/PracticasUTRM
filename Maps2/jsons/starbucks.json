@@ -1,0 +1,33 @@
+{
+    "Starbucks": [{
+            "nombre": "Starbucks1",
+            "latitud": "20.629902",
+            "longitud": "-87.070582"
+        },
+        {
+            "nombre": "Starbuck2",
+            "latitud": "20.628144",
+            "longitud": "-87.072294"
+        },
+        {
+            "nombre": "Starbucks3",
+            "latitud": "20.622366",
+            "longitud": "-87.076462"
+        },
+        {
+            "nombre": "Starbucks4",
+            "latitud": "20.632819",
+            "longitud": "-87.068003"
+        },
+        {
+            "nombre": "Starbucks5",
+            "latitud": "20.609121",
+            "longitud": "-87.090707"
+        },
+        {
+            "nombre": "Starbucks6",
+            "latitud": "20.618896",
+            "longitud": "-87.097005"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Mariscos": [{
+            "nombre": "Empanadas de mariscos",
+            "latitud": "20.676558",
+            "longitud": "-87.122179"
+        },
+        {
+            "nombre": "Restaurante de mariscos",
+            "latitud": "20.659878",
+            "longitud": "-87.070538"
+        },
+        {
+            "nombre": "Ojo rojo restaurante de mariscos",
+            "latitud": "20.682230",
+            "longitud": "-87.056571"
+        },
+        {
+            "nombre": "Chef playa mariscos",
+            "latitud": "20.651274",
+            "longitud": "-87.054997"
+        },
+        {
+            "nombre": "La bamba jarocha",
+            "latitud": "20.637478",
+            "longitud": "-87.071406"
+        },
+        {
+            "nombre": "Cockteleria manigua",
+            "latitud": "20.636964",
+            "longitud": "-87.065971"
+        },
+        {
+            "nombre": "El pirata",
+            "latitud": "20.636839",
+            "longitud": "-87.065714"
+        },
+        {
+            "nombre": "El guero marisqueria veracruzana",
+            "latitud": "20.636663",
+            "longitud": "-87.065120"
+        },
+        {
+            "nombre": "La fisheria",
+            "latitud": "20.630824",
+            "longitud": "-87.069201"
+        },
+        {
+            "nombre": "Mariscos y clamatos el doctorcito",
+            "latitud": "20.629739",
+            "longitud": "-87.075244" 
+        }
+    ]
+}
