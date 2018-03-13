@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<script type="text/javascript">
+		var geo_options = {
+			enableHighAccuracy: true,
+			maximumAge: 30000,
+			timeout: 27000
+		};
+
+		function success(position){
+			var latitude = position.coords.latitude;
+			var longitude = position.coords.longitude;
+			alert(latitude+" , "+longitude);
+		}
+
+		function error(){
+			output.innerHTML = "Lo sentimos, no podemos recuperar tu ubicaci&oacute;n todav&iacute;a. Si usas un tel&eacute;fono inteligente, por favor enciende tu GPS y espera 1-2 minutos.";
+		}
+
+		navigator.geolocation.getCurrentPosition(success,error,geo_options);
+	</script>
+</head>
+<body onload="">
+	
+</body>
+</html>
